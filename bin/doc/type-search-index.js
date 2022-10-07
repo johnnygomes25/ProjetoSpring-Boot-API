@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.educandoweb.curso","l":"CursoApplication"},{"p":"com.educandoweb.curso.entities","l":"User"},{"p":"com.educandoweb.curso.resources","l":"UserResource"}];updateSearchResults();
